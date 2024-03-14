@@ -1,0 +1,118 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  
+}
+ul{
+  list-style: none;
+  justify-content: space-between;
+  display: flex;
+  font-size: 12px;
+
+}
+
+.health-b{
+  display: inline;
+  list-style-type: disc;
+  font-size: 16px;
+ 
+}
+.health-b li{
+  margin-bottom: 20px;
+}
+.w2{
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.head{
+  font-size: 18px;
+  color: brown;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: tahoma;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+  
+}
+
+.concl{
+  font-size: 25px;
+  color: purple;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.conclusion{
+  margin-top: 200px;
+}
+.banana{
+  width: 100%;
+  padding: 10px;
+}
+
+.bann{
+  width: 100%;
+  padding: 10px;
+}
+nav a:hover {
+  color: rgb(165, 164, 164);
+}
+h2{
+  font-size: 40px;
+  font-family: rockwell;
+  color: tomato;
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  font-size: 11px;
+  line-height: 25px;
+}
+
+.post h2{
+  font-size: 80px;
+}
+
+.post{
+  margin: 20px;
+}
+a h3{
+  font-size: 16px;
+  font-style: italic;
+  text-decoration: underline;
+  color: green;
+  margin-left: 25px;
+  margin-bottom: 50px;
+
+}
